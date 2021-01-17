@@ -2,7 +2,7 @@
 ## I'm Vaibhav Goel,
 
 <a href="https://www.linkedin.com/in/goelvaibhav009/">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFNjK1KyzTn-g/profile-displayphoto-shrink_200_200/0/1598893701248?e=1616630400&v=beta&t=TeyCDYSU3cppaRkuH1AxQr4Bu5SMSaUq0mE9vHhjZOE">
+  <img src="https://img.shields.io/badge/Linkedin-Vaibhav%20Goel-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 - [] I'm a Computer Science student.
