@@ -1,5 +1,4 @@
-### Hi there 👋
-## I'm Vaibhav Goel,
+<a href="https://www.linkedin.com/in/goelvaibhav009/"><img src="https://github.com/GoelVaibhav009/GoelVaibhav009/blob/main/me.png" width="100%"></a>
 
 <a href="https://www.linkedin.com/in/goelvaibhav009/">
   <img src="https://img.shields.io/badge/Linkedin-Vaibhav%20Goel-blue?style=for-the-badge&logo=linkedin">
