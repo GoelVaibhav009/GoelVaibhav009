@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/Linkedin-Vaibhav%20Goel-blue?style=for-the-badge&logo=linkedin">
 </a>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="goelvaibhav009"><a class="LI-simple-link" href='https://in.linkedin.com/in/goelvaibhav009?trk=profile-badge'>Vaibhav Goel</a></div>
+
 - [] I'm a Computer Science student.
 - 🌱 I’m currently learning Dart, React.
 - 👀 I’m looking to collaborate on Open Source Projects.
