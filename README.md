@@ -23,7 +23,7 @@
 <!--   <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ishandeveloper" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->&nbsp;&nbsp;&nbsp;&nbsp;
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/madhav008"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee madhav008" /></a></p>
+<p><a href="https://www.buymeacoffee.com/goelvaibhav009"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee goelvaibhav009" /></a></p>
 
 <br><br>
 
