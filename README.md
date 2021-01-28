@@ -21,8 +21,16 @@
 <a href="https://twitter.com/goelvaibhav009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/goelvaibhav009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Vaibhav Goel" height="40" width="40" /></a> &nbsp;&nbsp;
 <!--   <a href="https://singhudit245.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ishandeveloper" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Udit-singh" alt="Vaibhav Goel" /></p>
-<a href="https://github.com/goelvaibhav009">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=GoelVaibhav009&show_icons=true&theme=dark&line_height=27" alt="Udit's github stats"/>
-</a> 
+<h3 align="left">Support:</h3>
+
+<p><a href="https://www.buymeacoffee.com/madhav008"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee madhav008" /></a></p>
+
+<br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav008&show_icons=true&locale=en&layout=compact" alt="madhav008" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav008&show_icons=true&locale=en" alt="madhav008" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav008&" alt="madhav008" /></p>
+
