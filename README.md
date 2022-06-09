@@ -5,9 +5,9 @@
 </a>
 
 - [] I'm a Computer Science student.
-- 🌱 I’m currently learning Dart, React.
+- 🌱 I’m currently learning Golang, Microservices.
 - 👀 I’m looking to collaborate on Open Source Projects.
-- 🌟 Flutter Developer at DSC Ciet.
+- 🌟 Backend Developer at Fantasy Akhada.
 - 💬 Ask me any tech related stuff.
 - ⚡ Fun fact: I fond of playing Volleyball.
 
